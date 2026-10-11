@@ -1410,7 +1410,7 @@ export default {
         "description": "Duyệt bố cục nền và nhấp để chuyển"
       },
       "visualizer-still": {
-        "title": "Hiệu ứng thị giác: Tĩnh",
+        "title": "Hiệu ứng thị giác: Still",
         "description": "Chuyển sang hiệu ứng tĩnh tiết kiệm tài nguyên"
       },
       "visualizer-classic": {
@@ -2589,7 +2589,7 @@ export default {
     "reduceMotionFollowSystem": "Theo cài đặt hệ thống",
     "reduceMotionFollowSystemDesc": "Để cài đặt hiệu ứng của hệ điều hành giảm chuyển động toàn bộ, như các phiên bản trước.",
     "reduceMotionForcedBySystem": "Hiện đang bị giảm bởi cài đặt hệ thống phía trên.",
-    "reduceMotionLattice": "Lattice (hàng đợi poster)",
+    "reduceMotionLattice": "Queue collage",
     "reduceMotionLatticeDesc": "Mở rộng poster, góc máy lướt, sóng mở màn, quán tính kéo và hiệu ứng mờ lời trên hàng đợi Lattice.",
     "reduceMotionTransitionOverlay": "Chuyển tiếp hòa âm",
     "reduceMotionTransitionOverlayDesc": "Vòng tiến trình automix và viền tiến trình hiển thị quanh thẻ đang phát.",
@@ -4282,7 +4282,7 @@ export default {
       "description": "Chế độ xem lời bài hát đơn có thể tùy biến, kết hợp nhiều hoạt ảnh lời và hình nền."
     },
     "lattice": {
-      "title": "Lattice (hàng đợi poster)",
+      "title": "Không gian Poster",
       "description": "Toàn bộ hàng đợi phát xếp thành không gian poster 3D, bài đang phát được phóng to nổi bật."
     },
     "stay": {
